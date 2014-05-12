@@ -1,0 +1,8 @@
+<ReleaseNotes>
+	<Changeset component="org.gcube.data-transfer.uri-resolver.1-0-0" date="2013-04-19">
+		<Change>first release</Change>	
+	</Changeset>
+	<Changeset component="org.gcube.data-transfer.uri-resolver.1-1-0" date="2013-07-09">
+		<Change>Added fileName and contentType parameters to SMP URI resolver</Change>	
+	</Changeset>
+</ReleaseNotes>

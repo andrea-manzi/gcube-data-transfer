@@ -1,0 +1,13 @@
+<providers>
+	<!--  Vladimir GsiFTP aka GridFTP -->
+    <provider class-name="org.apache.commons.vfs2.provider.gridftp.cogjglobus.GridFtpFileProvider">
+        <scheme name="gsiftp"/>
+    </provider>
+    <provider class-name="org.apache.commons.vfs2.provider.storageresourcebroker.SRBFileProvider">
+        <scheme name="srb"/>
+    </provider>
+    <provider class-name="org.apache.commons.vfs2.provider.irods.IRODSFileProvider">
+        <scheme name="irods"/>
+    </provider>
+</providers>
+           

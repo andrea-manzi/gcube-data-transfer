@@ -1,0 +1,13 @@
+<ReleaseNotes>
+	<Changeset component="org.gcube.data-transfer.storagemanager-portlet.1-0-0" date="2013-01-11">
+			<Change>First release of the component</Change>
+	</Changeset>
+	<Changeset component="org.gcube.data-transfer.storagemanager-portlet.1-1-0" date="2013-10-25">
+			<Change>adapted to new home library, gwt 2.5.1</Change>
+			<Change>enhancements: new tree structures, removed VO-admin super user,improved drag and drop</Change>
+	</Changeset>
+		<Changeset component="org.gcube.data-transfer.storagemanager-portlet.1-2-0" date="2014-02-07">
+			<Change>new tree grid panel with file attributes</Change>
+			<Change>folder copy</Change>
+	</Changeset>
+</ReleaseNotes>
